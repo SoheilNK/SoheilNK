@@ -4,11 +4,11 @@
 
 I am a student at Get Coding right now. My background is in civil engineering, but I've always been interested in computer science and programming. In my previous jobs, I made spreadsheets for building design, data analysis, and accounting using Visual Basic for Applications in Excel. As a newcomer to Canada, my life and career are about to change, and I'm excited to start programming as a job.
 
-### Fun stats:
+### Stats:
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoheilNK&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=transparent"/>
-</div>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SoheilNK&theme=react&line_height=40"/> </a>
+ </div>
 
 #### Thanks for checking out my profle! 
 ![vistitors](https://visitor-badge.glitch.me/badge?page_id=SoheilNK.SoheilNK)
