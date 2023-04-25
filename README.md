@@ -2,7 +2,8 @@
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soheil-najmabadi-kia/)
 
-I am a student at Get Coding right now. My background is in civil engineering, but I've always been interested in computer science and programming. In my previous jobs, I made spreadsheets for building design, data analysis, and accounting using Visual Basic for Applications in Excel. As a newcomer to Canada, my life and career are about to change, and I'm excited to start programming as a job.
+At the moment, I am enrolled at Get Coding. Although I have a degree in civil engineering, computer science and programming have always been areas of keen interest to me. In my prior roles, I frequently used Visual Basic for Applications in Excel to create custom spreadsheets for the design of structures, data analysis, and accounting. Having recently relocated to Canada, I am eager to begin a new chapter of my life as a professional programmer.
+
 
 ### Stats:
 
