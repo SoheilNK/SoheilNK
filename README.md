@@ -1,4 +1,14 @@
-### Hi there, I'm Soheil. 👋
+# Soheil Najmabadi Kia
+
+Full-Stack Developer at [ReliablyME](https://reliablyme.com/)
+
+**Projects**
+
+- [🎲 SoSep Backgammon](https://soheilnk.github.io/Backgammon/)
+- [🎂 Contributed to CakeyHand](https://cakeyhand.com/)
+- [🛒 Contributed to GIV2PAY](https://www.giv2pay.com/)
+- [🔳 IQ Test](https://soheilnk.github.io/IQ-Test/)
+
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soheil-najmabadi-kia/)
 
