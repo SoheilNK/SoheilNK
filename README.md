@@ -12,7 +12,7 @@ Full-Stack Developer at [ReliablyME](https://reliablyme.com/)
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soheil-najmabadi-kia/)
 
-After moving to Canada, I embarked on an exciting journey and transitioned from civil to programming. As an intern at ReliablyME - a startup based in Toronto - I’m honing my Full-Stack Software Development skills, adept in Node, React, and TypeScript, and familiar with AWS. My background ensures a keen eye for detail and strong problem-solving abilities. Fluent in English and French, I'm enthusiastic about tackling challenges and eager to make my mark in the tech world!
+After relocating to Canada, I transitioned from a Civil Engineer to a Software Developer. Currently, as an intern at ReliablyME, a Toronto-based startup, I am sharpening my full-stack development skills. I've developed proficiency in Node, React, and TypeScript, along with an understanding of AWS, solidifying my journey in the software development realm. My background ensures a keen eye for detail and strong problem-solving abilities. Fluent in English and French, I'm enthusiastic about tackling challenges and eager to make my mark in the tech world!
 
 
 ### Stats:
