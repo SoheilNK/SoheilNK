@@ -4,7 +4,7 @@ Full-Stack Developer at [ReliablyME](https://reliablyme.com/)
 
 **Projects**
 
-- [🎲 SoSep Backgammon](https://soheilnk.github.io/Backgammon/)
+- [🎲 SoSep Backgammon | Online Multi-Player Backgammon](https://sosepbackgammon.ca-central-1.elasticbeanstalk.com/)
 - [🎂 Contributed to CakeyHand](https://cakeyhand.com/)
 - [🛒 Contributed to GIV2PAY](https://www.giv2pay.com/)
 - [🔳 IQ Test](https://soheilnk.github.io/IQ-Test/)
@@ -12,7 +12,7 @@ Full-Stack Developer at [ReliablyME](https://reliablyme.com/)
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soheil-najmabadi-kia/)
 
-After relocating to Canada, I transitioned from a Civil Engineer to a Software Developer. Currently, as an intern at ReliablyME, a Toronto-based startup, I am sharpening my full-stack development skills. I've developed proficiency in Node, React, and TypeScript, along with an understanding of AWS, solidifying my journey in the software development realm. My background ensures a keen eye for detail and strong problem-solving abilities. Fluent in English and French, I'm enthusiastic about tackling challenges and eager to make my mark in the tech world!
+I am a software developer at ReliablyME, a Toronto-based startup. I know Node, React, TypeScript, and AWS. I have a sharp eye for detail and good problem-solving skills from civil engineering. Fluent in English and French, I'm enthusiastic about tackling challenges in the Canadian tech world!
 
 
 ### Stats:
