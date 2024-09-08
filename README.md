@@ -6,7 +6,7 @@ Full-Stack Developer at [ReliablyME](https://reliablyme.com/)
 
 - [🎲 SoSep Backgammon | Online Multi-Player Backgammon](https://sosepbackgammon.ca-central-1.elasticbeanstalk.com/)
 - [🎂 Contributed to CakeyHand](https://cakeyhand.com/)
-- [🛒 Contributed to GIV2PAY](https://www.giv2pay.com/)
+- 🛒 Contributed to GIV2PAY
 - [🔳 IQ Test](https://soheilnk.github.io/IQ-Test/)
 
 ---
